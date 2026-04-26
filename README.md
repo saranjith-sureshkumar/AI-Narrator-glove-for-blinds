@@ -25,7 +25,7 @@ An AI-powered assistive system that detects objects in real time and provides vo
 
 ## 🧩 Architecture
 
-![Architecture](docs/architecture.png)
+![Architecture](architecture.png)
 
 <br>
 
