@@ -1,0 +1,7 @@
+path: dataset  # Current folder
+train: train/images
+val: valid/images  
+test: test/images
+
+nc: 19
+names: ['air conditioner', 'bed', 'chair', 'desk', 'glass of water', 'kerchief', 'laptop', 'mobilecharger', 'mobliecharger', 'notebook', 'pen', 'phone', 'shoes', 'there is a person', 'there is a person sitting', 'toy car', 'wallet', 'waterbottle', 'wristwatc 

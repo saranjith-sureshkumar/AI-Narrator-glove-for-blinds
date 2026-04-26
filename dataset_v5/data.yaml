@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 28
+names: ['air conditioner', 'bed', 'chair', 'computer', 'cpu', 'desk', 'fireestinguisher', 'glass of water', 'kerchief', 'keyboard', 'laptop', 'light', 'mobilecharger', 'mobliecharger', 'mouse', 'notebook', 'pen', 'phone', 'projector', 'shoes', 'speaker', 'there is a person', 'there is a person sitting', 'toy car', 'wallet', 'waterbottle', 'windowscreen', 'wristwatch']
+
+roboflow:
+  workspace: blindaidobjects
+  project: my-first-project-erskx
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/blindaidobjects/my-first-project-erskx/dataset/6
